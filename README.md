@@ -1,5 +1,7 @@
 # Radix
 
+[![Join the chat at https://gitter.im/fzzy/radix](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fzzy/radix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Radix is a minimalistic Redis client for Go. It is broken up into the following:
 
 * [redis](http://godoc.org/github.com/fzzy/radix/redis) - A wrapper around a
